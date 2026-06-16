@@ -1,0 +1,17 @@
+Inception;Christopher Nolan;2010;Veiksmo/Trileris;8.8;148
+The Dark Knight;Christopher Nolan;2008;Veiksmo/Drama;9;152
+Interstellar;Christopher Nolan;2014;Moksline fantastika;8.6;169
+The Godfather;Francis Ford Coppola;1972;Drama/Nusikaltimu;9.2;175
+Pulp Fiction;Quentin Tarantino;1994;Nusikaltimu/Drama;8.9;154
+The Shawshank Redemption;Frank Darabont;1994;Drama;9.3;142
+Forrest Gump;Robert Zemeckis;1994;Drama/Romantika;8.8;142
+The Matrix;Lana Wachowski;1999;Moksline fantastika;8.7;136
+Goodfellas;Martin Scorsese;1990;Nusikaltimu/Drama;8.7;146
+Fight Club;David Fincher;1999;Drama/Trileris;8.8;139
+Schindler's List;Steven Spielberg;1993;Drama/Istorinis;8.9;195
+The Silence of the Lambs;Jonathan Demme;1991;Trileris/Siaubo;8.6;118
+Se7en;David Fincher;1995;Nusikaltimu/Trileris;8.6;127
+LOTR: The Return of the King;Peter Jackson;2003;Nuotykiu/Fantazija;8.9;201
+Gladiator;Ridley Scott;2000;Veiksmo/Drama;8.5;155
+The Departed;Martin Scorsese;2006;Nusikaltimu/Trileris;8.5;151
+Saving Private Ryan;Steven Spielberg;1998;Karo/Drama;8.6;169
